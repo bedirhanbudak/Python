@@ -8,7 +8,7 @@ If you want to learn Python, these projects could be simple starting examples fo
 
 **Note:** Python projects will be developed and updated by me over time.
 
-**Note:** The contents and names of files may include some `Turkish` phrases.
+**Note:** The contents and the names of files may include some `Turkish` phrases.
 
 # (Türkçe) Python Projeleri
 
